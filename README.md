@@ -1,3 +1,7 @@
+
+
+Name: Kiara Saahfon 
+Student Number: 300290520
 # BookStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
